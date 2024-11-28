@@ -1,1 +1,1 @@
-# medical_project_vr
+# iic_hackathon_project
